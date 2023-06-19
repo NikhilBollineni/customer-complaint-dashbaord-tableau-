@@ -1,3 +1,4 @@
+![customer_complaint_analysis_dashboard](https://github.com/NikhilBollineni/customer-complaint-dashbaord-tableau-/assets/106835768/768bbc0b-e0fd-42df-ae28-73781baeb92e)
 # Customer Complaint Analysis Dashboard
 
 This project showcases a customer complaint analysis dashboard for a company that manufactures and sells medical products. It provides comprehensive insights into complaint statistics, thereby assisting the company in improving its customer service and product quality.
